@@ -22,6 +22,7 @@ No islands were found.
 
 ## Constraints
 `0 < m, n`
+
 `Array[i][j] = 1 or Array[i][j] = 0 for 0 ≤ i < m and 0 ≤ j < n`
 
 ## Example
