@@ -1,7 +1,5 @@
 package com.damelyngdoh.codemine.grouprepeater;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Objects;
 
 public class GroupRepeater {
